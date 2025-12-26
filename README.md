@@ -3,7 +3,7 @@
 
 <!-- ================= HEADER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=240&section=header&text=ZEROGRADE&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&section=header&text=ZEROGRADE&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=70" width="100%"/>
 </p>
 
 <p align="center">
@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Roles-22c55e?style=flat-square&logo=briefcase&logoColor=white"/>
 </p>
 
-
-
-
+---
 
 ## 🧠 About Me
 
@@ -32,21 +30,24 @@ I **analyze data → build ML → expose APIs → deploy systems**.
 
 ## 🧩 Tech Stack & Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly"/>
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=tensorflow"/>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -66,38 +67,48 @@ EDA, visualization, and insight extraction using Python.
 
 ---
 
+## 📊 GitHub Stats (Clean & High Impact)
 
-## 📊 GitHub Metrics (like lowlighter)
 
+<!-- Overall GitHub Stats -->
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerograde&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerograde&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zerograde&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Profile Summary (Activity + Repos + Community) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerograde&theme=tokyonight"/>
+</p>
+
+<!-- Commits & Languages Breakdown -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zerograde&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zerograde&theme=tokyonight"/>
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerograde&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerograde&layout=compact&theme=transparent&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zerograde&theme=transparent&hide_border=true"/>
-</p>
 
 ---
 
-## 🧠 Contribution Activity (Git History Card)
+## 📈 GitHub Metrics (Deep Insights)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerograde&theme=transparent"/>
+  <img src="https://raw.githubusercontent.com/Zerograde/Zerograde/main/github-metrics.svg"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zerograde&theme=transparent"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zerograde&theme=transparent"/>
-</p>
+
 
 ---
 
@@ -125,9 +136,10 @@ EDA, visualization, and insight extraction using Python.
 
 <!-- ================= FOOTER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 </p>
 
 > **“Strong fundamentals. Clean systems. Long-term thinking.”**
+
 
 
