@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,41 +11,23 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate GitHub Metrics
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # === REQUIRED ===
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Zerograde
-        
+
+          # ===== BASE (SAFE) =====
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           config_timezone: Asia/Kolkata
-        
-          # Languages
-          plugin_languages: yes
-          plugin_languages_limit: 8
-        
-          # Activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 30
-        
-          # Habits (safe)
-          plugin_habits: yes
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-        
-          # Calendar
-          plugin_calendar: yes
-        
-          # Repositories (safe mode)
-          plugin_repositories: yes
-          plugin_repositories_pinned: yes
-        
-          # Display
           config_display: large
           config_output: svg
+
+          # ===== ONLY STABLE PLUGINS =====
+          plugin_languages: yes
+          plugin_languages_limit: 8
+
+          plugin_calendar: yes
+
