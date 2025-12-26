@@ -133,6 +133,7 @@ I **analyze data → build ML → expose APIs → deploy systems**.
   <h3>🐍 Contribution Snake</h3>
   <img src="https://github.com/Zerograde/Zerograde/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
+
 ---
 
 ## ⚙️ How I Work
