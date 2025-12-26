@@ -3,14 +3,24 @@
 
 <!-- ================= HEADER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&section=header&text=ZEROGRADE&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&section=header&text=ZEROGRADE&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=70" width="100%"/>
 </p>
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+%26+AI+Engineer+in+Progress;Building+Production-Ready+AI+Systems;Data+Analysis+%E2%86%92+Building+Models+%E2%86%92+APIs+%E2%86%92+Deployment;Learning+NLP+%E2%80%A2+GenAI+%E2%80%A2+Agentic+AI;Python+%E2%80%A2+Pandas+%E2%80%A2+Scikit-Learn+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Open+to+Internships+%26+Collaborations&font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=70&duration=4500" />
+  </a>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zerograde&style=flat-square&color=0ea5e9"/>
   <img src="https://img.shields.io/github/followers/Zerograde?label=Followers&style=flat-square&color=6366f1"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Roles-22c55e?style=flat-square&logo=briefcase&logoColor=white"/>
 </p>
+
+
 
 ---
 
@@ -51,23 +61,36 @@ I **analyze data → build ML → expose APIs → deploy systems**.
 
 ---
 
-## ⭐ Featured Projects
+## 📊 Analytics & Impact
 
-🛒 **ecommerce-recommend**  
-ML-based recommendation system for e-commerce personalization.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zerograde&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">📊 GitHub Analytics</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=Zerograde&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">🔥 Coding Streak</h3>
+        <img src="https://streak-stats.demolab.com?user=Zerograde&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-🛡️ **Insurance**  
-Insurance risk & premium prediction using ML models.
-
-🌦️ **weather**  
-Weather app using Python + APIs with clean UI.
-
-📊 **Data Analysis Projects**  
-EDA, visualization, and insight extraction using Python.
+<div align="center">
+  <h3>💻 Tech Stack & Frequency</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerograde&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" width="60%"/>
+</div>
 
 ---
 
 ## 📊 GitHub Stats (Clean & High Impact)
+
 
 
 <!-- Overall GitHub Stats -->
@@ -96,10 +119,6 @@ EDA, visualization, and insight extraction using Python.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zerograde&theme=tokyonight"/>
 </p>
 
-
-
-
-
 ---
 
 ## 📈 GitHub Metrics (Deep Insights)
@@ -108,8 +127,12 @@ EDA, visualization, and insight extraction using Python.
   <img src="https://raw.githubusercontent.com/Zerograde/Zerograde/main/github-metrics.svg"/>
 </p>
 
+---
 
-
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://github.com/Zerograde/Zerograde/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 ---
 
 ## ⚙️ How I Work
